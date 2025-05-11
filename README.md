@@ -46,4 +46,4 @@ I'm _**Srushti Raste**_, a Robotics & Electronics Graduate Engineer specializing
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile views](https://komarev.com/ghpvc/?username=ssraste)
