@@ -1,6 +1,6 @@
 # Hello, Thanks for stopping by! 🙋🏻‍♀️
 
-I'm _**Srushti Raste**_, a Robotics & Electronics Graduate Engineer specializing in robotic design, control and planning 🦾
+I'm _**Srushti Raste**_, a Robotics & Electronics Graduate Engineer specializing in robot design, control and planning 🦾
 
 ## 👩🏻‍🏫 About Me
 - 🦿 **Research Associate** at Wesleyan University (Present)
